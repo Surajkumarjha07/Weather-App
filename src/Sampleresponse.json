@@ -1,0 +1,50 @@
+{
+    "coord": {
+        "lon": 77.2167,
+        "lat": 28.6667
+    },
+    "weather": [
+        {
+            "id": 211,
+            "main": "Thunderstorm",
+            "description": "thunderstorm",
+            "icon": "11d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 306.2,
+        "feels_like": 312.09,
+        "temp_min": 306.2,
+        "temp_max": 306.2,
+        "pressure": 1002,
+        "humidity": 58
+    },
+    "visibility": 3500,
+    "wind": {
+        "speed": 2.57,
+        "deg": 90
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1694520731,
+    "sys": {
+        "type": 1,
+        "id": 9165,
+        "country": "IN",
+        "sunrise": 1694478865,
+        "sunset": 1694523672
+    },
+    "timezone": 19800,
+    "id": 1273294,
+    "name": "Delhi",
+    "cod": 200
+}
+
+
+
+
+
+
+
